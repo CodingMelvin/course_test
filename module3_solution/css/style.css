@@ -1,0 +1,30 @@
+h1.title{
+    font-weight: 900;
+}
+
+div.container-fluid {
+    background-color: grey;
+    border: 2px solid black;
+}
+
+
+.menu-item {
+    position: relative;
+    overflow: hidden;
+    background-color: grey;
+    margin-bottom: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    float: both;
+}
+
+.nav-item {
+    color: black;
+    background: white;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.navbar-style {
+    background-color: white;
+}
